@@ -1,6 +1,6 @@
-# Image Processing Assignments
+# Image Processing Using Otsu’s Method
 
-This repository contains implementations of **Image Processing** techniques in Python.  
+This repository contains implementations of **Image Processing Using Otsu’s Method** techniques in Python.  
 The current assignment focuses on **Otsu's Thresholding** for image binarization.
 
 ---
